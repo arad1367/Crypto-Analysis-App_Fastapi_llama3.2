@@ -46,7 +46,7 @@ A professional FastAPI-based cryptocurrency analysis tool that provides real-tim
 ## Video Tutorial
 Watch a demonstration of the Crypto Analysis API in action:
 
-[![Crypto Analysis API Tutorial](https://img.youtube.com/vi/D-m4HtlmEAw/maxresdefault.jpg)](https://youtu.be/D-m4HtlmEAw "Crypto Analysis API Tutorial")
+[![REAL Time Crypto Analysis API Tutorial](https://img.youtube.com/vi/JVFdFALITHg/maxresdefault.jpg)](https://youtu.be/JVFdFALITHg "Crypto Analysis API Tutorial")
 
 <details>
 <summary>🎥 Click to watch the video walkthrough</summary>
