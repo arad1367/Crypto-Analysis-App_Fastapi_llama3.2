@@ -1,4 +1,4 @@
-# Crypto Analysis App_Fastapi_llama3.2 🚀
+# Crypto Analysis App_Fastapi_SmolLM2-135M-Instruct 🚀
 
 A professional FastAPI-based cryptocurrency analysis tool that provides real-time technical analysis using the SmolLM2 AI model. This application offers comprehensive technical indicators and AI-powered market insights for major cryptocurrencies.
 
@@ -84,7 +84,7 @@ Key points covered in the video:
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/arad1367/Crypto-Analysis-App_Fastapi_llama3.2.git
+git clone https://github.com/arad1367/Crypto-Analysis-App_Fastapi_SmolLM2-135M-Instruct.git
 cd Crypto-Analysis-App_Fastapi_llama3.2
 ```
 
